@@ -1,0 +1,26 @@
+{
+  "name": "meta_graph_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshuakatt/Meta_Graph_API.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joshuakatt/Meta_Graph_API/issues"
+  },
+  "homepage": "https://github.com/joshuakatt/Meta_Graph_API#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "instagram-web-api": "^2.2.2"
+  }
+}
